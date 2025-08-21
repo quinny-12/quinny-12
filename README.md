@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Quinn Downey and I'm a senior at Lane Tech. I'm an Irish dancer and I work regularly year-round at the Neighborhood Boys and Girls Club at Revere Park. I aspire to be a data scientist in the sports industry, ideally using predictive modeling to help NFL coaches make game-time decisions.
 
 <!--
 **quinny-12/quinny-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+0
