@@ -9,6 +9,8 @@
 ">
 </picture> 
 
+This is a picture of the group of 4th and 5th graders I worked with at the Neighborhood Boys and Girls Club this summer.
+
 <!--
 **quinny-12/quinny-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
