@@ -1,5 +1,14 @@
 ## My name is Quinn Downey and I'm a senior at Lane Tech. I'm an Irish dancer and I work regularly year-round at the Neighborhood Boys and Girls Club at Revere Park. I aspire to be a data scientist in the sports industry, ideally using predictive modeling to help NFL coaches make game-time decisions.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset=![PXL_20250411_233529915_1_optimized_1000](https://github.com/user-attachments/assets/08de1206-c95e-4e90-a8e6-f6254ff0d3f4)
+">
+ <source media="(prefers-color-scheme: light)" srcset="![PXL_20250411_233529915_1_optimized_1000](https://github.com/user-attachments/assets/4c2991e3-1624-4f74-b5e5-067a958a739b)
+">
+ <img alt="My camp group this summer at the Neighborhood Boys and Girls Club" src="![PXL_20250411_233529915_1_optimized_1000](https://github.com/user-attachments/assets/bf2947c5-7b49-4f61-b5d0-69c3f6865503)
+">
+</picture> 
+
 <!--
 **quinny-12/quinny-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
